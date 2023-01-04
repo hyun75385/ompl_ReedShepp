@@ -1,7 +1,7 @@
 # ompl ReedsSheppCurve rviz   
-creating a redds-Shepp curve with ompl  
+creating a Reeds-Shepp curve with ompl  
 set start and end pose with rviz  
-show result in path and marker array
+show result in path and marker array  
 
 ## how to run  
 ```
@@ -12,7 +12,7 @@ rviz -d myrviz.rviz
 ```
 set Start pose with 2D Pose Estimate  
 set End pose with 2D Nav Goal  
-<img src = "./img/set.png" width="100%" height="100%">   
+<img src = "./img/set.png" width="60%" height="100%">   
 
 ## Dependencies  
 ubuntu 18.04, ROS1 melodic  
