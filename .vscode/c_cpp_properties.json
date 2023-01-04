@@ -1,0 +1,35 @@
+{
+  "configurations": [
+    {
+      "browse": {
+        "databaseFilename": "${default}",
+        "limitSymbolsToIncludedHeaders": false
+      },
+      "includePath": [
+        "/home/pjh/catkin_ws/devel/include/**",
+        "/home/pjh/syscon_ws/devel/include/**",
+        "/opt/ros/melodic/include/**",
+        "/home/pjh/catkin_ws/src/autocarz-main/include/**",
+        "/home/pjh/catkin_ws/src/bin_msgs/include/**",
+        "/opt/ros/melodic/share/fetch_gazebo/include/**",
+        "/home/pjh/catkin_ws/src/franka_ros/franka_control/include/**",
+        "/home/pjh/catkin_ws/src/franka_ros/franka_example_controllers/include/**",
+        "/home/pjh/catkin_ws/src/franka_ros/franka_gazebo/include/**",
+        "/home/pjh/catkin_ws/src/franka_ros/franka_gripper/include/**",
+        "/home/pjh/catkin_ws/src/franka_ros/franka_hw/include/**",
+        "/home/pjh/syscon_ws/src/uos_gazebo_simulation/hybrid_astar/include/**",
+        "/home/pjh/syscon_ws/src/uos_gazebo_simulation/core_docking/dock_perception/laser_perceptions/include/**",
+        "/home/pjh/syscon_ws/src/uos_gazebo_simulation/sp_simulation/realsense_ros_gazebo/include/**",
+        "/home/pjh/syscon_ws/src/uos_gazebo_simulation/sp_localization/include/**",
+        "/home/pjh/catkin_ws/src/test/include/**",
+        "/usr/include/**"
+      ],
+      "name": "ROS",
+      "intelliSenseMode": "gcc-x64",
+      "compilerPath": "/usr/bin/gcc",
+      "cStandard": "gnu11",
+      "cppStandard": "c++14"
+    }
+  ],
+  "version": 4
+}
